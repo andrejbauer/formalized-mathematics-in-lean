@@ -1,8 +1,6 @@
-# Formalized mathematics
+# Course planning
 
-A graduate course on formalized mathematics, given in the Fall semester of 2024/25 at Faculty of Mathematics and Physics, university of Ljubljana.
-
-# Things to learn
+## Things to learn in random order
 
 * implicit arguments
 * programming in Lean
@@ -18,11 +16,11 @@ A graduate course on formalized mathematics, given in the Fall semester of 2024/
 * writing papers and formalized code
 * how to display formalized code in a paper
 * Lean as a programming language
-* Fin n
+* `Fin n`
 * quotients
 * transport along equality
 
-# Chapters
+## Chapters
 
 ## An installation party
 
