@@ -5,4 +5,5 @@ format: jb-book
 root: 00-introduction
 chapters:
 - file: 01-type-theory
-- file: 02-invisible-mathematics
+- file: 02-installation-party
+- file: 03-invisible-mathematics
