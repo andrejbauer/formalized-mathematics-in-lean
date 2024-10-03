@@ -2,6 +2,10 @@
 
 These are lecture notes for the doctoral course *Selected topics in computational mathematics: formalized mathematics and proof assistants*, taught at the [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/), University of Ljubljana, in the fall semester of 2024/25.
 
+The course is targeted at graduate students in mathematics and other mathematicians who are interested in learning formalized mathematics. We shall pay attention both to the theoretical underpinnings of proof assistants and to practical aspect of formalization. The goal is not only to teach the craft of formalized mathematics, but also to explain what happens inside a proof assistant.
+
+We shall use [Lean](https://www.lean-lang.org) and [mathlib](https://leanprover-community.github.io).
+
 ## Basic course information
 
 * Lecturer: [Andrej Bauer](https://www.andrej.com)
