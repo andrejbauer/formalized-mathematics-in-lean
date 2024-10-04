@@ -36,5 +36,7 @@ To pass the course, you will complete a small formalization project of your own 
 
 ## Lectures
 
+The following is an outline of the lectures.
+
 ```{tableofcontents}
 ```
