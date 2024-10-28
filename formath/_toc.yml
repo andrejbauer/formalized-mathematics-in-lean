@@ -7,3 +7,5 @@ chapters:
 - file: 01-type-theory
 - file: 02-installation-party
 - file: 03-invisible-mathematics
+- file: 04-first-encounter-with-lean
+- file: 05-organizational-features
