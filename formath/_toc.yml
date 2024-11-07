@@ -9,3 +9,4 @@ chapters:
 - file: 03-invisible-mathematics
 - file: 04-first-encounter-with-lean
 - file: 05-organizational-features
+- file: 06-structures-and-type-classes
