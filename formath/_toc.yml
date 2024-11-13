@@ -10,3 +10,4 @@ chapters:
 - file: 04-first-encounter-with-lean
 - file: 05-organizational-features
 - file: 06-structures-and-type-classes
+- file: 07-project-setup
