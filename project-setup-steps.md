@@ -200,4 +200,10 @@ As a last step of the configuration, you should set up `LICENSE.md` and `README.
 
 ## Working on the project
 
+It is really up to you to organize work the way you like it. Experience shows that it is best to split your project into smaller parts, each of which achievable in reasonable time.
+
+Your initial blueprint should list the overall goals, the parts of the project (perhaps organized as sections), and external references as appropriate. The initial blueprint should suffice to get your started and to keep you on track. It need not be very detailed, as it is unlikely that you are able to precisely predict the structure of your formalization. You can oscillate between formalized code and the blueprint as you make progress.
+
+For your own sake, and to make your code usable by others, you should put plentiful documentation.
+
 
