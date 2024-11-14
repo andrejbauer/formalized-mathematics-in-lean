@@ -79,6 +79,7 @@ Create a new Lean+mathlib project and change working directory into it:
 Download a precompiled version of mathlib:
 
     cd partial-combinatory-algebras
+    lake update
     lake exe cache get
 
 Edit the file `lakefile.lean` and set `autoImplicit` to false in the `leanOptions`. Mine looks like this (note the comma
