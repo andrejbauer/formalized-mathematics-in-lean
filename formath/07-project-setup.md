@@ -108,13 +108,15 @@ Create [a new GitHub project](https://github.com/new):
   * do **not** choose a license
 
 Assuming you correctly set up an empty repository (if not, you will have to learn how to merge unrelated git histories,
-or how to force-push), you should see instructions on “Quick setup”. Follow the “... or push an existing repository from command line”.
+or how to force-push), you should see instructions on “Quick setup”. Follow the “... or push an existing repository from command line”,
+as follows.
 
-From the command line, in the `partial-combinatory-algebras` folder on your computer (my project link is `git@github.com:andrejbauer/partial-combinatory-algebras.git`, yours should be in the Quick setup instructions):
+From the command line, in the `partial-combinatory-algebras` folder on your computer:
 
     git remote add origin ⟨your-project-link-here⟩
     git branch -M main
 
+My project link is `git@github.com:andrejbauer/partial-combinatory-algebras.git`, yours should be listen in the Quick setup instructions.
 Make your first commit:
 
     git add --all
@@ -189,7 +191,7 @@ The generated HTML version is available locally if you run
 
     leanblueprint serve
 
-and visit http://localhost:8000 (or whatever port number is given). Note that `leanblueprint` suggests visiting
+and visit `http://localhost:8000/` (or whatever port number is given). Note that `leanblueprint` suggests visiting
 `http://0.0.0.0:8000/` but that does seem to work on MacOS.
 
 
@@ -205,7 +207,7 @@ You may customize the main project page by editing `home_page/index.md` (which w
 
 ##### What is going on?
 
-(It is also safe to ignore this section and just hope that all happens automagically.)
+(It is safe to ignore this section and just hope that all happens automagically.)
 
 The online documentation is created through [GitHub Actions](https://docs.github.com/en/actions). These are scripts that
 run on GitHub servers when you push files, or trigger them manually. The `leanblueprint` program sets up an action
@@ -228,7 +230,7 @@ As a last step of the configuration, you should set up `LICENSE.md` and `README.
 ## Working on the project
 
 It is really up to you to organize work the way you like it. Experience shows that it is best to split your project into
-smaller parts, each of which achievable in reasonable time.
+smaller goals, each of which is achievable in reasonable time.
 
 Your initial blueprint should list the overall goals, the parts of the project (perhaps organized as sections), and
 external references as appropriate. The initial blueprint should suffice to get your started and to keep you on track.
@@ -243,7 +245,7 @@ Things that you should do but your lazy brain will tell you not to:
 
 ## Reading material
 
-Finish reading previous reading material.
+Finish reading the material from previous lectures.
 
 ## Homework
 
