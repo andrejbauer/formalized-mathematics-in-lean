@@ -16,4 +16,3 @@ We shall again draw from [Mathematics in Lean](https://leanprover-community.gith
 ## Homework
 
 * Read the above reading material and solve the exercises.
-* Talk to the lecturer about your class project, either on Discord, or by email, or by setting up an appointment.

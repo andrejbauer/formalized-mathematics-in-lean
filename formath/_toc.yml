@@ -3,6 +3,11 @@
 
 format: jb-book
 root: 00-introduction
+
+options:
+  numbered: 3
+  maxdepth: 6
+
 chapters:
 - file: 01-type-theory
 - file: 02-installation-party
@@ -11,3 +16,4 @@ chapters:
 - file: 05-organizational-features
 - file: 06-structures-and-type-classes
 - file: 07-project-setup
+- file: 08-inductive-types

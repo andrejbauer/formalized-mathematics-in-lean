@@ -9,12 +9,16 @@ copyright: "2024"
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
-
+ 
 parse:
   myst_enable_extensions:
     - dollarmath
+    - linkify
+    - substitution
+    - colon_fence
     - amsmath
-
+  myst_all_links_external: true
+  
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
