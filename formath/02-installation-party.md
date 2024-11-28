@@ -1,6 +1,6 @@
 # Lean installation party
 
-This is not going to be a regular lecture, but rather an online gathering whose purpose is to make sure that all course participants have successfully installed the software needed for the course.
+This is not a regular lecture, but rather an online gathering whose purpose is to make sure that all course participants have successfully installed the software needed for the course.
 
 ## Instructions
 

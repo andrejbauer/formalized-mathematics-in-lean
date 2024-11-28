@@ -252,3 +252,7 @@ Finish reading the material from previous lectures.
 1. Get your formalization project approved by the lecturer.
 2. Set up your project, following the instructions above.
 3. Tell your lecturer where the GitHub repository for your project is.
+
+## Video
+
+* **Video:** [MAT-FORMATH-2024-11-15 Lean projects and blueprints](https://youtu.be/aSboAE9CMq0?si=pXebigy1n7OBOPGe)

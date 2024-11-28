@@ -20,3 +20,6 @@ In the remaining time we will practice different formalization styles, from dire
 * Browse [Mathlib](https://leanprover-community.github.io/mathlib4_docs/) (the `Mathlib` section) too see what is already there.
 * Think about what you would like to formalize for your class project. It should be a topic that you are familiar with, and it should have several good goal posts, so that if you do not reach the end you will still have accomplished something.
 
+## Video
+
+* **Video:** [MAT-FORMATH-2024-1-25 Organizational features](https://youtu.be/H3kjkaKwOEI?si=NGSkDg4TdDttrXmQ) 

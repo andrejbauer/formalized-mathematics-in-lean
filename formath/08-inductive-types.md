@@ -138,3 +138,8 @@ This week's reading material comes from [Theorem proving in Lean 4](https://lean
 
 At this point you should know what your class project is and you should have created the initial project with a blueprint.
 **Work on your project.**
+
+## Video and class notes
+
+* **Video:** [MAT-FORMATH-2024-11-22 Inductive types](https://youtu.be/L5z6Vu9hXsg?si=Hbqro1o0GR9R5zJU)
+* **Notes:** [MAT-FORMATH-2024/MAT-FORMATH-2024-11-22-inductive-types](https://www.andrej.com/zapiski/MAT-FORMATH-2024/MAT-FORMATH-2024-11-22-inductive-types/)

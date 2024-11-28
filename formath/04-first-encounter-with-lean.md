@@ -11,7 +11,6 @@ There is a saying in Slovene, “Vaja dela mojstra” (exercise makes a master),
 * Complete the exercises in [`GlimpseOfLean`](https://github.com/PatrickMassot/GlimpseOfLean), and at least one extra topic.
 * Read a good chunk of [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/). It is highly recommended that you familiarize yourself with chapters 1, 2, 3 and 4.
 
-## Video and class notes
+## Video
 
 * **Video:** [MAT-FORMATH-2024-10-18 First encoutner with Lean](https://youtu.be/_LVCP6GXvw8)
-* **Class notes:** there are no useful class notes, as we just worked on `GlimpseOfLean` which already has complete solutions.

@@ -16,3 +16,8 @@ We shall again draw from [Mathematics in Lean](https://leanprover-community.gith
 ## Homework
 
 * Read the above reading material and solve the exercises.
+
+## Video and class notes
+
+* **Video:** [MAT-FORMATH-2024-11-08 Structures and classes](https://youtu.be/VAGTjxjmsDs?si=Sb03ojncNguYTYKN)
+* **Class notes:** [MAT-FORMATH-2024-11-08-structures-and-classes.pdf](https://www.andrej.com/zapiski/MAT-FORMATH-2024/MAT-FORMATH-2024-11-08-structures-and-classes/MAT-FORMATH-2024-11-08-structures-and-classes.pdf)
