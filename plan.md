@@ -36,12 +36,12 @@
 * from sets to types
 * families
 * `Π`, `Σ`, `ℕ`
-* idenitity type
+* identity type
 * universes
 * Logic and `Prop`
 * the difference between `A : Prop`, `A = True` and `p : A`
 
-Examples: arithemtic, primes, factorization
+Examples: arithmetic, primes, factorization
 
 ## Invisible mathematics
 
@@ -50,7 +50,7 @@ Running example: ?
 * elaboration
 * looking under the hood: inference, unification, equality checking
 * coercions, implicit arguments and type classes, informally
-* explict and abstract existence
+* explicit and abstract existence
 
 ## Logic and finite sets
 
@@ -87,10 +87,10 @@ Running example: ?
 * group theory
 * groups
 * subgroups are not groups
-* isomoprhism theorems
+* isomorphism theorems
 * group theory in mathlib
 
-## Formalization II: someting involving custom tactics
+## Formalization II: something involving custom tactics
 
 * should use mathlib
 
