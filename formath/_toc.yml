@@ -17,3 +17,4 @@ chapters:
 - file: 06-structures-and-type-classes
 - file: 07-project-setup
 - file: 08-inductive-types
+- file: 09-meta-programming
